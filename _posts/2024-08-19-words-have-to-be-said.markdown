@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Words have to be said"
-date: 2024-08-20 08:30
+date: 2024-08-19 08:30
 categories: Emotions
 ---
 
