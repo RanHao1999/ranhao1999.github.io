@@ -74,8 +74,8 @@ footer:
       username: "Hao Ran"
 # Build settings
 #<<<<<<< HEAD
-#theme: bay_jekyll_theme
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
+#remote_theme: eliottvincent/bay
 #=======
 #>>>>>>> 5e0889ab68c2df599e5c79278c13f6383dc9a4cf
 plugins:
