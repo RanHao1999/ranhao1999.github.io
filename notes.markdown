@@ -8,7 +8,7 @@ I will present my daily work and study notes in this page.
 
 ## Vlasov-MagnetoHydrodynamics set of equations <sub>[[pdf]](/assets/files/MHD_equations.pdf)</sub>      
 The main work of my Ph.D. project involves using the Vlasov-Magnetohydrodynamics set of equations,
-    combined with Solar Obiter observations and our simulation code,
+    combined with [*Solar Obiter*](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter) observations and our simulation code,
     to reveal the velocity distribution functions of particles in the solar wind.
 The physical basis, including the derivation and physical meaning of these equations, is reviewed in the document.
 This document will be continuously updated to include the majority of the theoretical part of my Ph.D.
