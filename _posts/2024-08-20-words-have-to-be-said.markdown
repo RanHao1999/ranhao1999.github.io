@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一些不吐不快的话"
+title: "words have to be said"
 date: 2024-08-20 08:30
 categories: Emotions
 ---
