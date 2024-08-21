@@ -30,9 +30,12 @@ Some important wavelengths that used to study the solar atmosphere were also hig
 This is the work of my research intern at the Nanjing Institute of Astronomical Optics and Technology, Chinese Academy of Sciences.
 
 
-
-
-
+## The Arbitary Linear Plasma Solver (ALPS) code <sub>[[pdf]](/assets/files/ALPS.pdf)</sub>
+The Arbitary Linear Plasma Solver (ALPS) code solves the Vlasov-Maxwell dispersion relation in hot (even relativistic) magnetized plasma.
+ALPS allows for any number of particle species with arbitary gyrotrpic equilibrium distribution functions supporting waves with any direction of propagation with respect to the background magnetic field.
+This code is developed by [Daniel Verscharen et al. (2018)](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/alps-the-arbitrary-linear-plasma-solver/B05A3FFAA8875A37A1BDB128DEB58EA1).
+The code is available [here](https://github.com/danielver02/ALPS).
+In this file, we will introduce the principle of the code and present the instruction for using this code.
 
 
 
