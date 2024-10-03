@@ -11,7 +11,7 @@ permalink: /cv/
 ![profile photo](../assets/img/formal_photo.jpg){: style="width: 150px; height: auto;" }
 
 ### Contact Information
-- Email: ranhaogm@gmail.com
+- Email: hao.ran.24@ucl.ac.uk
 - Github: [RanHao1999](https://github.com/RanHao1999)
 - Address: Mullard Space Science Laboratory, Holmbury St. Mary, Dorking, Surrey, RH5 6NT, United Kingdom
 
