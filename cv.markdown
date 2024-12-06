@@ -34,8 +34,12 @@ permalink: /cv/
 - Fuzhou, Fujian Province, China
 
 **2023.10 1st ASO-S and CHASE Joint Conference**
-- *The Alpha-proton Differential FLow in the Young Solar Wind*
+- *The Alpha-proton Differential Flow in the Young Solar Wind*
 - Wuxi, Jiangsu Province, China
+
+**2024.11 Autumn Magnetosphere, Ionsphere, and Solar-Terrestrail (MIST) 2024**[<sub>[poster]</sub>](../assets/files/HRAN_MIST.pdf)
+- *On the Preferential Acceleration of Alpha Particles in the Solar Wind*
+- Birmingham, United Kingdom
 
 ### Awards
 - Science and Technology Facilities Council Studentship  
