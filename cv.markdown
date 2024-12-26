@@ -7,7 +7,7 @@ permalink: /cv/
 # Curriculum Vitae[<sub>[pdf]</sub>](../assets/files/CV.pdf)
 
 ## Hao Ran
-
+ 
 ![profile photo](../assets/img/formal_photo.jpg){: style="width: 150px; height: auto;" }
 
 ### Contact Information
