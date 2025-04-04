@@ -29,7 +29,7 @@ permalink: /cv/
 - Supervisor: Prof. Yang Guo
 
 ### Talks
-**2023.04 20 th National Solar-Terrestrial Space Science Seminar**  
+**2023.04 20th National Solar-Terrestrial Space Science Seminar**  
 - *Relationship Between Successive Flares in the Same Active Region and SHARP Parameters*
 - Fuzhou, Fujian Province, China
 
@@ -40,6 +40,10 @@ permalink: /cv/
 **2024.11 Autumn Magnetosphere, Ionsphere, and Solar-Terrestrail (MIST) 2024**[<sub>[poster]</sub>](../assets/files/HRAN_MIST.pdf)
 - *On the Preferential Acceleration of Alpha Particles in the Solar Wind*
 - Birmingham, United Kingdom
+
+**2025.04 Spring Magnetosphere, Ionsphere, and Solar-Terrestrail (MIST) 2025**
+- *A pipeline for Separating Solar Orbiter Proton Alpha-particle Sensor (PAS) Measurements*
+- Leicester, United Kingdom
 
 ### Awards
 - Science and Technology Facilities Council Studentship  
