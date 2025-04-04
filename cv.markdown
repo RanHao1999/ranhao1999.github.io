@@ -41,7 +41,7 @@ permalink: /cv/
 - *On the Preferential Acceleration of Alpha Particles in the Solar Wind*
 - Birmingham, United Kingdom
 
-**2025.04 Spring Magnetosphere, Ionsphere, and Solar-Terrestrail (MIST) 2025**
+**2025.04 Spring Magnetosphere, Ionsphere, and Solar-Terrestrail (MIST) 2025**[<sub>[poster]</sub>](../assets/files/Spring_MIST_2025_HRan.pdf)
 - *A pipeline for Separating Solar Orbiter Proton Alpha-particle Sensor (PAS) Measurements*
 - Leicester, United Kingdom
 
