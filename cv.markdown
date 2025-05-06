@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Hao Ran
  
-![profile photo](../assets/img/formal_photo.jpg){: style="width: 150px; height: auto;" }
+![profile photo](../assets/img/mssl_photo.png){: style="width: 150px; height: auto;" }
 
 ### Contact Information
 - Email: hao.ran.24@ucl.ac.uk
