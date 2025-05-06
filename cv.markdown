@@ -28,7 +28,7 @@ permalink: /cv/
 - School of Astronomy and Space Science, Nanjing University
 - Supervisor: Prof. Yang Guo
 
-### Talks
+### Conferences and Talks
 **2023.04 20th National Solar-Terrestrial Space Science Seminar**  
 - *Relationship Between Successive Flares in the Same Active Region and SHARP Parameters*
 - Fuzhou, Fujian Province, China
@@ -44,6 +44,13 @@ permalink: /cv/
 **2025.04 Spring Magnetosphere, Ionsphere, and Solar-Terrestrail (MIST) 2025**[<sub>[poster]</sub>](../assets/files/Spring_MIST_2025_HRan.pdf)
 - *A pipeline for Separating Solar Orbiter Proton Alpha-particle Sensor (PAS) Measurements*
 - Leicester, United Kingdom
+
+**2025.05 In situ heliospheric science meeting**
+- *Using Gaussian Mixture Method to Separate Solar Orbiter Proton Alpha-particle Sensor (PAS) Measurements*
+- Lyon, France
+
+**2025.05 M-MATISSE Community Workshop**
+- London, United Kingdom
 
 ### Awards
 - Science and Technology Facilities Council Studentship  
