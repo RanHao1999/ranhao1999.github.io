@@ -18,7 +18,7 @@ permalink: /cv/
 ### Education
 **2024.09 - present: Ph.D. Candidate in Space Physics**
 - Mullard Space Science Laboratory, University College London
-- Supervisor: Dr. Daniel Verscharen
+- Supervisor: Prof. Daniel Verscharen
 
 **2021.09 - 2024.06: Master of Science in Space Physics**
 - National Space Science Center, CAS & University of Chinese Academy of Sciences
