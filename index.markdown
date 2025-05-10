@@ -8,7 +8,6 @@ profile_picture:
   alt: website picture
 ---
 
-<em> Ici vers les étoiles. </em> （此处通往繁星。）
 
 Welcome to my personal homepage! 
 I am Hao Ran (冉豪), a graduate student at the [Mullard Space Science Laboratory, University College London](https://www.ucl.ac.uk/mssl). 
@@ -17,7 +16,7 @@ My supervisor is [Prof. Daniel Verscharen](https://verscharen.com).
 
 
 My research interests include: plasma motions across the solar system, 
-   solar magnetism and activities, solar-terrestrial relations and space weather. 
+   solar magnetism and activities, solar-terrestrial relations and space weather, and space-based instrumentation development. 
 My research is important to the comprehension of the influence that the Sun has on humans and our facilities in space and on the ground.
 
 
