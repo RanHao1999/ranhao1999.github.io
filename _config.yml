@@ -36,7 +36,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
+    #  - name: Blog  # <-- blog.md
     - name: Research  # <-- work.md
       url: /research
     - name: CV    # <-- cv.md
