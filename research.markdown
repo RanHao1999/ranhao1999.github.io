@@ -7,7 +7,7 @@ permalink: /research/
 # Research
 
 I will present my first-authored papers here. 
-For more details please see my [Google Scholar page](https://scholar.google.com/citations?user=bJp4veEAAAAJ&hl=zh-CN).
+For a complete list, please see my [Google Scholar page](https://scholar.google.com/citations?user=bJp4veEAAAAJ&hl=zh-CN).
 I also attach the codes that are used in each work at the end of each abstract.
 Please star them if you find them helpful!
 
