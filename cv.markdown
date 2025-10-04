@@ -49,8 +49,10 @@ permalink: /cv/
 - *Using Gaussian Mixture Method to Separate Solar Orbiter Proton Alpha-particle Sensor (PAS) Measurements*
 - Lyon, France
 
-**2025.05 M-MATISSE Community Workshop**
-- London, United Kingdom
+**2025.09 Frontier Lectures on Solar Activity and Space Weather**
+- *太阳风中波粒相互作用的动力学特征：基于Solar Orbiter的测量*
+- National Space Science Center, Chinese Academy of Sciences
+- Beijing, China
 
 ### Awards
 - Science and Technology Facilities Council Studentship  
