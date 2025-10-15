@@ -21,7 +21,7 @@ My research is important to the comprehension of the influence that the Sun has 
 
 
 
-I obtained my Bachelor’s degree in 2021 from the School of Astronomy and Space Science, Nanjing University, under the supervision of [Prof. Yang Guo]([https://astronomy.nju.edu.cn/szll/jsmc/twxjs/20190826/i14899.html](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13841.html)). 
+I obtained my Bachelor’s degree in 2021 from the School of Astronomy and Space Science, Nanjing University, under the supervision of [Prof. Yang Guo](https://astronomy.nju.edu.cn/szll/szgk/js/20190816/i13841.html). 
 My undergraduate thesis discussed the relationship between successive solar flares originating from the same active region and [SHARP parameters](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm).
 Afterward, I pursued a master’s degree in Space Physics at the National Space Science Center, Chinese Academy of Sciences and graduated in 2024. My master's supervisor was [Prof. Ying Liu](https://people.ucas.edu.cn/~liuxying).
 I analyzed the properties and characteristics of the alpha-proton differential flow in the near-Sun environment observed by [*Parker Solar Probe*](https://science.nasa.gov/mission/parker-solar-probe/) in my master's thesis.
