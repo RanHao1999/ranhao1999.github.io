@@ -15,7 +15,7 @@ Please star them if you find them helpful!
 ## The Alpha-proton Differetial Flow in the Young Solar Wind: From Sub-Alfvénic to Super-Alfvénic  
 **Authors:** Hao Ran, Ying D. Liu, Chong Chen, Parisa Mostafavi  
 **Published in:** *The Astrophysical Journal*, 963, 82, 2024    
-**Abstract:** Data obtained from Parker Solar Probe (PSP) since 2021 April have shown the first in situ observation of the solar
+<!--**Abstract:** Data obtained from Parker Solar Probe (PSP) since 2021 April have shown the first in situ observation of the solar
 corona, where the solar wind is formed and accelerated. Here, we investigate the alpha-proton differential flow and
 its characteristics across the critical Alfvén surface (CAS) using data from PSP during encounters 8–10 and 12–13.
 We first show the positive correlation between the alpha-proton differential velocity and the bulk solar wind speed
@@ -28,7 +28,7 @@ differential speed. Moreover, we observe that Vαp increases from MA < 1 to MA ~
 which suggests that alphas may remain preferentially accelerated well above the CAS. Our results also reveal that
 in the sub-Alfvénic solar wind both protons and alphas show a strong correlation between their velocity
 fluctuations and magnetic field fluctuations, with a weaker correlation for alphas. By contrast, in the super-Alfvénic
-regime the correlation remains high for protons, but is reduced for alphas.   
+regime the correlation remains high for protons, but is reduced for alphas.-->   
 [See the paper here.](https://doi.org/10.3847/1538-4357/ad2069)
 The codes used in this work are shared [here](https://github.com/RanHao1999/PSP).
 
@@ -36,7 +36,7 @@ The codes used in this work are shared [here](https://github.com/RanHao1999/PSP)
 ## Relationship between Successive Flares in the Same Active Region and SHARP Parameters   
 **Authors:** Hao Ran, Ying D. Liu, Yang Guo, Rui Wang   
 **Published in:** *The Astrophysical Journal*, 937, 43, 2022   
-**Abstract:** A solar active region (AR) may produce multiple notable flares during its passage across the solar disk. We
+<!--**Abstract:** A solar active region (AR) may produce multiple notable flares during its passage across the solar disk. We
 investigate successive flares from flare-eruptive ARs, and explore their relationship with solar magnetic
 parameters. We examine six ARs in this study, each with at least one major flare above X1.0. The Space-weather
 HMI Active Region Patch (SHARP) is employed in this study to parameterize the ARs. We aim to identify the
@@ -45,7 +45,7 @@ correlation coefficients between the SHARP parameters and the successive flare p
 Natural Gradient Boost (NGBoost) method to analyze the relationship between the SHARP parameters and the
 successive flare bursts. Based on the correlation analysis and the importance distribution returned from NGBoost,
 we select the eight most flare-related SHARP parameters. Finally, we discuss the physical meanings of the eight
-selected parameters and their relationship with flare production.    
+selected parameters and their relationship with flare production.-->    
 [See the paper here.](https://doi.org/10.3847/1538-4357/ac80fa)
 The codes used in this work are shared [here](https://github.com/RanHao1999/Flare_SHARP).
 
