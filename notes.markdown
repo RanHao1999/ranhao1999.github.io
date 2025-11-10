@@ -6,7 +6,7 @@ permalink: /notes/
 
 I will present my daily work and study notes in this page.
 
-## Vlasov-MagnetoHydrodynamics set of equations <sub>[[pdf]](/assets/files/MHD_equations.pdf)</sub>      
+## [Vlasov-MagnetoHydrodynamics set of equations](/assets/files/MHD_equations.pdf)    
 The main work of my Ph.D. project involves using the Vlasov-Magnetohydrodynamics set of equations,
     combined with [*Solar Orbiter*](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter) observations and our simulation code,
     to reveal the velocity distribution functions of particles in the solar wind.
@@ -22,7 +22,7 @@ In this document, we reviewed important works related to this topic, and present
 I plan to further continue this work in my Ph.D., therefore the pdf file will not be available until this work is finished.
 
 
-## Application of High-resolution High-precision Spectral Observations in Solar Physics <sub>[[pdf]](/assets/files/Spectral_study.pdf)</sub>
+## [Application of High-resolution High-precision Spectral Observations in Solar Physics](/assets/files/Spectral_study.pdf)
 
 With but few exceptions, quantitatively researches of the Sun are based on the interpretation of spectroscopic observations.
 In this review, we introduced how the Zeeman effect and Doppler shifts are used to measure some key properties.
@@ -30,7 +30,7 @@ Some important wavelengths that used to study the solar atmosphere were also hig
 This is the work of my research intern at the Nanjing Institute of Astronomical Optics and Technology, Chinese Academy of Sciences.
 
 
-## The Arbitary Linear Plasma Solver (ALPS) code <sub>[[pdf]](/assets/files/ALPS.pdf)</sub>
+## [The Arbitary Linear Plasma Solver (ALPS) code](/assets/files/ALPS.pdf)
 The Arbitary Linear Plasma Solver (ALPS) code solves the Vlasov-Maxwell dispersion relation in hot (even relativistic) magnetized plasma.
 ALPS allows for any number of particle species with arbitary gyrotrpic equilibrium distribution functions supporting waves with any direction of propagation with respect to the background magnetic field.
 This code is developed by [Daniel Verscharen et al. (2018)](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/alps-the-arbitrary-linear-plasma-solver/B05A3FFAA8875A37A1BDB128DEB58EA1).
