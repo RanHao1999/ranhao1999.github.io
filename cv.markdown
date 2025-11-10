@@ -16,7 +16,7 @@ permalink: /cv/
 - Address: Mullard Space Science Laboratory, Holmbury St. Mary, Dorking, Surrey, RH5 6NT, United Kingdom
 
 ### Education
-**2024.09 - present: Ph.D. Candidate in Space Physics**
+**2024.09 - present: Ph.D. Candidate in Space Plasma Physics**
 - Mullard Space Science Laboratory, University College London
 - Supervisor: Prof. Daniel Verscharen
 
