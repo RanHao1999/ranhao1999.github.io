@@ -76,7 +76,6 @@ permalink: /cv/
 
 ### Engagement
 - Reviewing for journals:
-The Astrophysical Journal, The Astrophysical Journal Letters
 
 -  Since 2024:
    Member of the Royal Astronomical Society
