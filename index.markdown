@@ -15,7 +15,7 @@ My supervisor is [Prof. Daniel Verscharen](https://verscharen.com).
 
 
 
-My research interests include: plasma motions across the solar system, 
+My research interests include: kinetic physics of the plasma in the solar system, 
    solar magnetism and activities, solar-terrestrial relations and space weather, and space-based instrumentation development. 
 My research is important to the comprehension of the influence that the Sun has on humans and our facilities in space and on the ground.
 
