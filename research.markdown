@@ -13,6 +13,7 @@ Please star them if you find them helpful!
 
 ## The Damping and Instability of Ion-acoustic Waves in the Solar Wind: Solar Orbiter Observations
 **Authors:** Hao Ran, Daniel Verscharen, Jesse Coburn, Georgios Nicolaou, Charalambos Ioannou, Xiangyu Wu, Jingting Liu, Kristopher Klein, Christopher Owen
+
 **Under review in:** *The Asrophysical Journal*
 
 Codes used in this work are shared [here](https://github.com/RanHao1999/SWA-Data-Analysis), including:
