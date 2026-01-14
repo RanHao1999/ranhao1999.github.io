@@ -6,13 +6,13 @@ permalink: /research/
 
 # Research
 
-I will present my first-authored papers here. 
+I present my first-authored papers here. 
 For a complete list, please see my [Google Scholar page](https://scholar.google.com/citations?user=bJp4veEAAAAJ&hl=zh-CN).
 I also attach the codes that are used in each work.
 Please star them if you find them helpful!
 
 ## The Damping and Instability of Ion-acoustic Waves in the Solar Wind: Solar Orbiter Observations
-**Authors:** Hao Ran, Daniel Verscharen, Jesse Coburn, Georgios Nicolaou, Charalambos Ioannou, Xiangyu Wu, Jingting Liu, Kristopher Klein, Christopher Owen
+**Authors:** Hao Ran, Daniel Verscharen, Jesse Coburn, Georgios Nicolaou, Charalambos Ioannou, Xiangyu Wu, Jingting Liu, Kristopher Klein, Christopher Owen   
 **Under review in:** *The Asrophysical Journal*
 
 Codes used in this work are shared [here](https://github.com/RanHao1999/SWA-Data-Analysis), including:
