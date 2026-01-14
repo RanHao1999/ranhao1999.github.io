@@ -18,8 +18,9 @@ Please star them if you find them helpful!
 Codes used in this work are shared [here](https://github.com/RanHao1999/SWA-Data-Analysis), including:
 1. GMM-based proton / alpha separation of Solar Orbiter-SWA-PAS measurement;
 2. Generation of "Collared" distribution from measurements.
-   Feel free to use! If you find these codes useful, please star the repository and cite this paper!
-   Any questions, please contact me!
+   
+Feel free to use! If you find these codes useful, please star the repository and cite this paper!
+Any questions, please contact me!
 
 
 ## The Alpha-proton Differetial Flow in the Young Solar Wind: From Sub-Alfvénic to Super-Alfvénic  
