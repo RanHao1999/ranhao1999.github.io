@@ -11,6 +11,16 @@ For a complete list, please see my [Google Scholar page](https://scholar.google.
 I also attach the codes that are used in each work.
 Please star them if you find them helpful!
 
+## The Damping and Instability of Ion-acoustic Waves in the Solar Wind: Solar Orbiter Observations
+**Authors:** Hao Ran, Daniel Verscharen, Jesse Coburn, Georgios Nicolaou, Charalambos Ioannou, Xiangyu Wu, Jingting Liu, Kristopher Klein, Christopher Owen
+**Under review in:** *The Asrophysical Journal*
+
+Codes used in this work are shared [here](https://github.com/RanHao1999/SWA-Data-Analysis), including:
+1. GMM-based proton / alpha separation of Solar Orbiter-SWA-PAS measurement;
+2. Generation of "Collared" distribution from measurements.
+   Feel free to use! If you find these codes useful, please star the repository and cite this paper!
+   Any questions, please contact me!
+
 
 ## The Alpha-proton Differetial Flow in the Young Solar Wind: From Sub-Alfvénic to Super-Alfvénic  
 **Authors:** Hao Ran, Ying D. Liu, Chong Chen, Parisa Mostafavi  
